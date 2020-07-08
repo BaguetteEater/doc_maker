@@ -31,3 +31,11 @@ I need to say things
 `perl doc_maker.pl filepath`
 
 with filepath having this format : "folder/folder/.../my_file"
+
+## Concrete exemples
+
+For now, I've use it on one project, [here](https://github.com/BaguetteEater/sudoku_generator_3000), feel free to check this out.
+
+I hope I will update the list - and use it often !
+
+I hope you like my small tool :)
